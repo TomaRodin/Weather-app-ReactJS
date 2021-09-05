@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    margin: 0 -5px;
+  }
+
+.container {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width : 20%;
+  margin-left: 5%;
+  padding-left: 5%;
+  padding-bottom: 1px;
+  border-radius: 7px;
+  padding-top: 1px;
+}
